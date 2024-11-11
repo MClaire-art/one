@@ -1,0 +1,37 @@
+*{margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+.logo{
+    margin-left: auto;
+    margin-right: auto;
+}
+title{color: rgb(225, 182, 65);
+background-color: antiquewhite;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+margin-left: auto;
+margin-right: auto;
+}
+h2{color: rgb(50, 50, 50);
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: auto;
+    margin-right: auto;
+}
+h3{color: rgb(117, 117, 117);
+    margin-left: auto;
+    margin-right: auto;
+}
+table{
+background-color: blanchedalmond;
+margin-left: auto;
+margin-right: auto;
+}
+p{color: rgb(67, 67, 67);
+    margin-left: auto;
+margin-right: auto;
+}
+footer{margin-left: auto;
+    margin-right: auto;
+    color: blue;
+    background-color: rgb(187, 245, 245);
+}
